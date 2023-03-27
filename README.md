@@ -4,9 +4,9 @@
 
 # Setup Instruction
 
-## 1. Clone this repository with submodules
+## 1. Clone this repository 
 ```
-git clone --recurse-submodules https://github.com/thekitp/librespeed-playground.git
+git clone https://github.com/thekitp/librespeed-playground.git
 ```
 
 ## 2. Create persistence storage

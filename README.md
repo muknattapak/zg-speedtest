@@ -31,6 +31,6 @@ docker-compose run create-database
 
 # Usage
 
-- Main speed test page is http://localhost:41800/
-- Stats page is http://localhost:41800/results/stats.php (default password is `12341234`)
-- Database admin ui http://localhost:41801/
+- Main speed test page is http://localhost:3031/
+- Stats page is http://localhost:3031/results/stats.php (default password is `12341234`)
+- Database admin ui http://localhost:3032/

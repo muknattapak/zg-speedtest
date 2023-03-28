@@ -6,7 +6,7 @@
 
 ## 1. Clone this repository 
 ```
-git clone https://github.com/thekitp/librespeed-playground.git
+git clone https://github.com/muknattapak/zg-speedtest
 ```
 
 ## 2. Create persistence storage
